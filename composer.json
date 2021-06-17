@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Repro\\": "src/"
+        }
+    },
+    "require": {
+        "doctrine/dbal": "^2.13.0",
+        "vimeo/psalm": "^4.7.3",
+        "weirdan/doctrine-psalm-plugin": "^1.0.0"
+    }
+}
